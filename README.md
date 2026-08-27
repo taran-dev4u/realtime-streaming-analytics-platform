@@ -23,3 +23,5 @@ Distributed real-time streaming data and analytics platform processing high-thro
 
 Explore the live portfolio and system architecture:
 🔗 **[https://taran-dev4u.github.io/taran-portfolio/#projects](https://taran-dev4u.github.io/taran-portfolio/#projects)**
+
+<!-- sync: 1787836786.9978688 -->
